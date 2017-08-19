@@ -1,12 +1,15 @@
 {
-  "name": "openshift-cartridge-nodejs-template",
-  "version": "1.0.1",
-  "description": "Custom Node.js cartridge for OpenShift - sample application",
+  "name": "sud0",
+  "version": "0.0.1",
+  "description": "This is edited by jokeroller@163.com and ALL RIGHTS reserved_
+  .The author has built it for personal blog and you can review or pull a request @ github",
   "private": true,
   "main": "start.js",
   "scripts": {
-    "start": "node --use_strict start.js"
+    "start": "nodejs --use_strict start.js"
   },
-  "author": "Ionut-Cristian Florescu <ionut.florescu@gmail.com>",
+
+  "author": "jokeroller<jokeroller@163.com , c1789036325@gmail.com>",
   "license": "ISC"
 }
+// Maybe you can use "node --use_strict start.js" at line 9
